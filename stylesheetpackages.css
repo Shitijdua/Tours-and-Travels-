@@ -1,0 +1,123 @@
+body {
+background-color: #f1faee;
+}
+
+
+/*  Navigation */
+.site-nav {
+  margin-top: 20px;
+  margin-bottom: 40px;
+
+}
+
+.site-nav ul {
+  margin: 0;
+  padding: 0;
+  margin-left: 80px;
+}
+.site-nav li {
+  list-style: none;
+  float: left;
+  color: #000000;
+
+}
+
+.site-nav a {
+
+  text-decoration: none;
+  color: #000000;
+  padding: 10px 10px;
+  border: 10px solid #0D4B8A;
+}
+
+.site-nav a:hover {
+  background-color: #A8D1DF;
+}
+/* end navigation */
+/*tagline */
+
+.tagline {
+text-align: center;
+font-size: x-large;
+color: #000000;
+font-weight: bold;
+}
+
+/* shitij tour and travels */
+ .title {
+   text-align: center;
+   font-size: x-large;
+
+ }
+
+/* Shitij tours and travels*/
+header h1 {
+  color: #0D4B8A;
+  }
+
+header p {
+  color: #000000;
+  margin-bottom: 30px;
+}
+.tagline a:hover {
+  background-color: #87CEEB;
+}
+.title a:hover {
+  background-color: #87CEEB;
+}
+
+/* end of navigation */
+.normalpackages {
+  text-align: center;
+
+}
+/* normak packages */
+.column {
+  float:left;
+  width: 25%;
+  background-color:  #0D4B8A;
+  color: #FFF;
+  font-style: normal;
+  text-align: center;
+}
+.headingnormalpackages {
+  font-size: x-large;
+  font-weight:bold;
+  color: #FF4F19;
+
+}
+
+.headingnormalpackages a:hover {
+  background-color: #FF0000;
+}
+.footer {
+  text-align: center;
+}
+.abovefooter {
+  display: block;
+  box-sizing: border-box;
+ float: left;
+ width: 33.33%;
+ text-align: center;
+ color: #FFF;
+ background-color: #912A2E;
+ padding: 40px 40px;
+}
+.abovefooter a {
+float: left;
+text-decoration:none;
+color: #FFF;
+}
+.abovefooter p {
+  text-align: center;
+}
+.quicklinks a  {
+  float: left;
+  text-decoration: none;
+  text-align: center;
+  width: 100%;
+
+}
+.quicklinks a:hover {
+   background-color: #2C3E50;
+ }

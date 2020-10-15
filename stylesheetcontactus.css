@@ -1,0 +1,114 @@
+body {
+  background-color: #cccccc;
+}
+
+.tagline p {
+  text-align: center;
+  font-size: x-large;
+  color: #000000;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+ .title {
+  text-align: center;
+  font-size: x-large;
+  }
+
+ .title a:hover {
+  background-color: #87CEEB;
+ }
+
+ /*  Navigation */
+ .site-nav {
+   margin-top: 20px;
+   margin-bottom: 20px;
+   font-size: medium;
+ }
+
+ .site-nav ul {
+   margin: 0;
+   padding: 0;
+   margin-left: 80px;
+ }
+ .site-nav li {
+   list-style: none;
+   float: left;
+ }
+
+ .site-nav a {
+
+   text-decoration: none;
+   color: #000000;
+   padding: 10px 10px;
+   border: 10px solid #0D4B8A;
+ }
+
+ .site-nav a:hover {
+   background-color: #A8D1DF;
+ }
+ /* end navigation */
+
+
+.contact p {
+  margin-left: 60px;
+  margin-right: 60px;
+
+}
+
+.contactuscontent {
+background-color: #F1F1F1;
+}
+
+.contactuscontent h2 {
+  color: #013D62;
+  font-style: italic;
+}
+
+
+ .group:before,
+ .group:after {
+   content: "";
+   display: table;
+ }
+
+ .group:after {
+   clear: both;
+ }
+
+ .group {
+   zoom: 1;
+ }
+ .footer {
+   text-align: center;
+   font-size: medium;
+ }
+ .abovefooter {
+   display: block;
+   box-sizing: border-box;
+  float: left;
+  width: 33.33%;
+  text-align: center;
+  color: #FFF;
+  background-color: #912A2E;
+  font-size: medium;
+   padding: 40px 40px;
+ }
+ .abovefooter a {
+ float: left;
+ text-decoration:none;
+ color: #FFF;
+ }
+ .quicklinks a  {
+   float: left;
+   text-decoration: none;
+   text-align: center;
+   width: 100%;
+
+ }
+ .abovefooter p {
+   text-align: center;
+ }
+ .quicklinks a:hover {
+    background-color: #2C3E50;
+  }

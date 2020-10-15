@@ -1,0 +1,159 @@
+body {
+  background-color: #f8edeb;
+}
+/*  Navigation */
+.site-nav {
+  margin-top: 20px;
+  margin-bottom: 40px;
+
+}
+
+.site-nav ul {
+  margin: 0;
+  padding: 0;
+  margin-left: 80px;
+}
+.site-nav li {
+  list-style: none;
+  float: left;
+  color: #000000;
+
+}
+
+.site-nav a {
+
+  text-decoration: none;
+  color: #000000;
+  padding: 10px 10px;
+  border: 10px solid #0D4B8A;
+}
+
+.site-nav a:hover {
+  background-color: #A8D1DF;
+}
+/* end navigation */
+/* shitij tour and travels */
+ .title {
+   text-align: center;
+   font-size: x-large;
+ }
+
+ /*tagline */
+
+ .tagline {
+   text-align: center;
+   font-size: x-large;
+   color: #000000;
+   font-weight: bold;
+
+ }
+
+ .about {
+    font-size: x-large;
+    padding: 60px 60px;
+   margin-left: 80px;
+   margin-right: 80px;
+   margin-top: 20px;
+   color: #000000;
+   background-color: #EFE1BA;
+  max-width: 100%;
+
+ }
+
+ .upperabout {
+
+ font-weight: bold;
+ font-size: x-large;
+
+ }
+  .whyus {
+  text-align: center;
+  font-size: x-large;
+  text-decoration: underline;
+  font-style: oblique;
+  color: #000000;
+
+  }
+  .onlineportal {
+  text-align: center;
+  font-size: x-large;
+  text-decoration: underline;
+
+  }
+
+  .onlineportal a:hover {
+    background-color: #FFF;
+    }
+
+  .reachus {
+    text-align: center;
+    font-size: x-large;
+    text-decoration: underline;
+
+  }
+
+  .reachus a:hover {
+    background-color: #FFF;
+  }
+
+  .whyus a:hover {
+    background-color: #FFF;
+  }
+.learn {
+font-style: italic;
+  text-align: center;
+}
+.footer {
+  text-align: center;
+}
+.abovefooter {
+  display: block;
+  box-sizing: border-box;
+ float: left;
+ width: 33.33%;
+ text-align: center;
+ color: #FFF;
+ background-color: #912A2E;
+ padding: 40px 40px;
+}
+
+/* video */
+.vid {
+  text-align: center;
+  margin-top: 40px;
+}
+.abovefooter a {
+float: left;
+text-decoration:none;
+color: #FFF;
+}
+.quicklinks a  {
+  float: left;
+  text-decoration: none;
+  text-align: center;
+  width: 100%;
+}
+.abovefooter p {
+  text-align: center;
+}
+.quicklinks a:hover {
+   background-color: #2C3E50;
+ }
+ <style type="text/css">
+ .header {
+     width: 100%;
+     background-color: #3B5998;
+     height: 35px;
+     margin-top:0;
+ }
+ .style1 {
+     margin-right: 38px;
+ }
+ .style2 {
+     width: 100%;
+     background-color: #3B5998;
+     height: 35px;
+ }
+
+
+ </style>
